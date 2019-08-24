@@ -1,0 +1,14 @@
+.game-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #9e3829;
+  font-size: 3rem;
+  text-align: center;
+  direction: flex;
+  flex-justify: center;
+  flex-align: center;
+}
+
+.pixi-wrapper {
+  padding: 2rem;
+}
