@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
 
-import {Stage, Container, Sprite} from '@inlet/react-pixi';
+import {Stage, Container} from '@inlet/react-pixi';
 import Marco from '../sprites/Marco';
 
 import './game.css';
